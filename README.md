@@ -4,10 +4,10 @@
 [![CodeQL](https://github.com/ahmadfaizalbh/Chatbot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ahmadfaizalbh/Chatbot/actions/workflows/codeql-analysis.yml)
 
 # ChatBotAI
-chatbot AI that helps in creating a python based chatbot with
-minimal coding. This tool provides both bots and chat handler and python function calls which
-makes it unique and more powerful in functionality. This AI provides
-features like learn, memory etc.
+chatbota AI, który pomaga w tworzeniu chatbota opartego na Pythonie przy
+minimalnym kodowaniem. Narzędzie to zapewnia zarówno boty, jak i obsługę czatu oraz wywołania funkcji Pythona, co
+czyni go wyjątkowym i bardziej wydajnym pod względem funkcjonalności. Ta sztuczna inteligencja zapewnia
+funkcje, takie jak uczenie się, pamięć itp.
 
 
 ![Demo GUI](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/demo_gui.gif)
