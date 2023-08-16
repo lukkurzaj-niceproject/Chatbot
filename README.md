@@ -1,22 +1,22 @@
-[![Downloads](https://pepy.tech/badge/chatbotai)](https://pepy.tech/project/chatbotai)
-[![PyPI version](https://badge.fury.io/py/chatbotAI.svg)](https://badge.fury.io/py/chatbotAI)
+[![Pliki do pobrania](https://pepy.tech/badge/chatbotai)](https://pepy.tech/project/chatbotai)
+[![Wersja PyPI](https://badge.fury.io/py/chatbotAI.svg)](https://badge.fury.io/py/chatbotAI)
 ![Upload Python Package](https://github.com/ahmadfaizalbh/Chatbot/workflows/Upload%20Python%20Package/badge.svg)
 [![CodeQL](https://github.com/ahmadfaizalbh/Chatbot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ahmadfaizalbh/Chatbot/actions/workflows/codeql-analysis.yml)
 
 # ChatBotAI
-Sztuczna inteligencja pythona, która pomaga w tworzeniu chatbota opartego
-na pythonie z minimalną ilością programowania. To zapewnia boty AI oraz obsługę
-czatu oraz pozwala na łatwą integrację z REST API i wywoływaniu pythonowych
-funkcji co tworzy go niepowtarzalnym i mocniejszym w użytkowaniu.
-To SI dostarcza niezliczone funkcje takie jak nauka, pamięć, przełącznik
-warunkowy, obsługa rozmów na określony temat, itp.
+Sztuczna inteligencja Pythona, która pomaga stworzyć chatbota opartego na
+oparty na Pythonie przy minimalnym programowaniu. Zapewnia to boty AI i wsparcie dla
+chatbota i pozwala na łatwą integrację z REST API i wywoływanie funkcji Pythona.
+co czyni go wyjątkowym i bardziej wydajnym w użyciu.
+Ta sztuczna inteligencja zapewnia niezliczone funkcje, takie jak uczenie się, pamięć, przełącznik warunkowy
+warunkowy, obsługa wywołań tematycznych itp.
 
 
 ![Demo GUI](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/demo_gui.gif)
 
 ![Demo](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/demo.gif)
-![Clothing assistance](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/clothing.gif)
-![Remainder](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/reminder.gif)
+![Pomoc w ubieraniu](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/clothing.gif)
+![Pozostałe](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/reminder.gif)
 
 ## Installation
 
