@@ -1,1 +1,3 @@
 wikipedia
+
+Zmiany w pliku requirement.txt
