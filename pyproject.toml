@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "chatbot"
+version = "1"
+description = ""
+authors = ["Arkadiusz Kuczynski <arkadiusz.kuczynski@niceproject.eu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+chatbotai = "^0.3.1.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+my-script = "chatbot:demo()"
